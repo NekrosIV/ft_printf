@@ -114,4 +114,12 @@ Pour compiler le projet et avoir l'executable . Exécutez la commande suivante d
 ```bash
 make test
 ```
+## Note
+
+- Voici la note que j'ai obtenue :
+    ![Note](img.png)
+  
+## Teste
+
+- Pour tester tout toutes les combinaisons possibles je vous conseille ce testeur : https://github.com/paulo-santana/ft_printf_tester.
 
