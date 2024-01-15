@@ -121,5 +121,5 @@ make test
   
 ## Teste
 
-- Pour tester tout toutes les combinaisons possibles je vous conseille ce testeur : https://github.com/paulo-santana/ft_printf_tester.
+- Pour tester toutes les combinaisons possibles je vous conseille ce testeur : https://github.com/paulo-santana/ft_printf_tester.
 
