@@ -1,7 +1,7 @@
 # ft_printf
 
 ## Description
-Le projet ft_printf de l'école 42 consiste à recoder la fonction printf() de la bibliothèque libc. La fonction ft_printf() doit imiter le comportement de printf() tout en offrant quelques fonctionnalités supplémentaires. La bibliothèque résultante, libftprintf.a, doit être créée à l'aide de la commande ar.
+Le projet ft_printf de l'école 42 consiste à recoder la fonction printf() de la bibliothèque libc. La fonction ft_printf() doit imiter le comportement de printf().
 
 ## Partie Obligatoire
 
