@@ -6,7 +6,7 @@ Le projet ft_printf de l'école 42 consiste à recoder la fonction printf() de l
 ## Partie Obligatoire
 
 ### Sujet
-- [x] **[Sujet](fr.subject.pdf):** Voici le sujet de ft_printf().
+- [x] **[Sujet](en.subject.pdf):** Voici le sujet de ft_printf().
 
 ### Fonction Principale
 
